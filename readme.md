@@ -1,6 +1,6 @@
-*Terminology you should know when learning HTML*
+#Terminology you should know when learning HTML
 
-HTML stands for HyperText Markup Language. 
+*HTML stands for HyperText Markup Language.* 
 
 <body>
   This holds all the content of your website that is displayed on the internet.
@@ -42,6 +42,6 @@ HTML stands for HyperText Markup Language.
     located on the bottom of your website document. Typically you will find the copyright and contact
     information. 
 
-    Hop on over to index.html file and take a peek at the boilerplate template for an HTML file. 
+    ### Hop on over to index.html file and take a peek at the boilerplate template for an HTML file. 
 
 
